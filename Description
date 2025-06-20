@@ -1,0 +1,21 @@
+✅ Explaination
+
+- Loaded and explored the World Bank Climate Change dataset
+- Cleaned missing values and standardized data types
+- Reshaped the dataset using melt and pivot operations
+- Removed redundant or empty rows and columns
+- Exported cleaned dataset (`cleaned_climate_data.csv`) for modeling
+
+🔧 Requirements
+
+- Python 3.x
+- Jupyter Notebook or any Python IDE
+- Required libraries listed in `requirements.txt`
+- Cleaned dataset for Stage 2 modeling
+
+📁 Files Included
+
+- `Climate_Change_Data_Cleaning.ipynb`
+- `cleaned_climate_data.csv`
+- `requirements.txt`
+- `WEEK1.md`
