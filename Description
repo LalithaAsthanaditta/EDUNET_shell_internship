@@ -11,11 +11,11 @@
 - Python 3.x
 - Jupyter Notebook or any Python IDE
 - Required libraries listed in `requirements.txt`
-- Cleaned dataset for Stage 2 modeling
+- Cleaned dataset for modeling
 
 📁 Files Included
 
-- `Climate_Change_Data_Cleaning.ipynb`
-- `cleaned_climate_data.csv`
+- `week1.ipynb`
+- `dataset.csv`
+- `cleaned_data.csv`
 - `requirements.txt`
-- `WEEK1.md`
