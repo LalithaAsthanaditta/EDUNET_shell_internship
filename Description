@@ -1,10 +1,17 @@
-✅ Explaination
+WEEK1 Explaination
 
 - Loaded and explored the World Bank Climate Change dataset
 - Cleaned missing values and standardized data types
 - Reshaped the dataset using melt and pivot operations
 - Removed redundant or empty rows and columns
-- Exported cleaned dataset (`cleaned_climate_data.csv`) for modeling
+- Exported cleaned dataset (`cleaned_climate_data.csv`) for modeling.
+
+WEEK2 Explaination
+
+- EDA visualizations
+- Feature creation
+- Linear Regression baseline model
+- Metrics: R² Score, RMSE
 
 🔧 Requirements
 
@@ -15,7 +22,7 @@
 
 📁 Files Included
 
-- `week1.ipynb`
+- `project.ipynb`
 - `dataset.csv`
 - `cleaned_data.csv`
 - `requirements.txt`
